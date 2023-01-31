@@ -1,5 +1,5 @@
 # ronsomeware_protector
- ronsomeware_protector and file prevent steaing vb.net
+ ronsomeware_protector and file prevent stealing vb.net
 demo  : 
 https://youtu.be/P1iw3kaVoCw
  ```
